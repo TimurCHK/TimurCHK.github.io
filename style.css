@@ -1,0 +1,38 @@
+
+body{
+    color:rgb(173, 78, 0);
+    text-align: center;
+    background-image: url(fon.jpg);
+    background-size: 1300px;
+    .logo{
+        width: 200px;
+        .logo:hover{
+            width: 250px;
+        }
+    }
+    .textr{
+        font-family:'Lucida Sans', 'Lucida Sans Regular';
+        font-size: 40px;
+        color: rgb(173, 78, 0);
+        text-shadow:5px 10px 15px rgb(0, 0, 0,);
+    }
+}
+.header:hover{
+    color: rgb(173, 78, 0);
+}
+
+.desk_os{
+    border: 10px solid rgb(95, 0, 0);
+    border-radius: 30px;
+    background-color: rgb(43, 43, 43);
+    box-shadow: 5px, 15px, 25px color black;
+    width: 50%;
+}
+
+.mobil_os{
+    border: 10px solid rgb(95, 0, 0);
+    border-radius: 30px;
+    background-color: rgb(43, 43, 43);
+    box-shadow: 5px, 15px, 25px color black;
+    width: 50%;
+}
