@@ -1,0 +1,48 @@
+
+body{
+    color:rgb(53, 97, 148);
+    text-align: center;
+    background-image: linear-gradient(rgb(29, 29, 29), rgb(27, 16, 26), rgb(20, 37, 56));
+    background-size: 1300px;
+    .logo{
+        width: 200px;
+        .logo:hover{
+            width: 250px;
+        }
+    }
+    .textr{
+        font-family:'Lucida Sans', 'Lucida Sans Regular';
+        font-size: 40px;
+        color: rgb(149, 156, 163);
+        text-shadow:5px 10px 15px rgb(0, 0, 0,);
+    }
+}
+.header:hover{
+    color: rgb(53, 97, 148);
+}
+
+.desk_os{
+    border: 10px solid rgb(53, 80, 107);
+    border-radius: 30px;
+    background-image: linear-gradient(90deg in hsl shorter hue, rgb(0, 0, 0), rgb(27, 16, 26), rgb(20, 41, 65));
+    box-shadow: 5px, 15px, 25px color black;
+    margin:0 25% 0 25%;
+  width:50%;
+}
+
+.mobil_os{
+    border: 10px solid rgb(53, 80, 107);
+    border-radius: 30px;
+    background-image: linear-gradient(90deg in hsl shorter hue, rgb(0, 0, 0), rgb(27, 16, 26), rgb(20, 41, 65));
+    box-shadow: 5px, 15px, 25px color black;
+    margin:0 25% 0 25%;
+    width:50%;
+}
+.general{
+    margin:0 25% 0 25%;
+    width:50%;
+background-image: linear-gradient(90deg in hsl shorter hue, rgb(0, 0, 0), rgb(27, 16, 26), rgb(20, 41, 65));
+border: 10px solid rgb(53, 80, 107);
+border-radius: 30px;
+box-shadow: 5px , 15px, 25px color black;
+}
