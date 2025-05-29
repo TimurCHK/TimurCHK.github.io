@@ -46,3 +46,10 @@ border: 10px solid rgb(53, 80, 107);
 border-radius: 30px;
 box-shadow: 5px , 15px, 25px color black;
 }
+.header {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: 50px;
+  z-index: 10;
+}
